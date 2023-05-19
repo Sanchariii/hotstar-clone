@@ -1,4 +1,4 @@
-# <a href="" target="_blank">Hotstar Clone</a>
+# <a href="http://www.hotstar.com/" target="_blank">Hotstar Clone</a>
 [![Author](https://img.shields.io/badge/Author-Sanchari%20Ray-blue.svg)](https://www.linkedin.com/in/sanchari-ray-a4499b21b/)
 
 
